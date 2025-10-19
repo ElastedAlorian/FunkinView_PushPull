@@ -1,0 +1,24 @@
+Title: Fresh
+Arist: Kawai Sprite
+Genre: Funk
+Speed: 1.6
+BPM: 120
+Time Signature: 4/4
+Stage: stage
+Instrumental: assets/songs/fresh/Inst.flac
+Voices: assets/songs/fresh/Voices-dad.flac, assets/songs/fresh/Voices-bf.flac
+Mania: 9
+Difficulty: #4
+Game Over:
+Theme: vanilla
+BPM: 100
+Characters:
+dad, enemy
+pos -700 300
+cam 0 45
+gf, other
+pos -100 300
+cam 0 45
+bf, player
+pos 200 300
+cam 0 45

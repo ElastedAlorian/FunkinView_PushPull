@@ -111,7 +111,7 @@ class HealthBar {
 		iconP1.type = HEALTH_ICON;
 		iconP1.changeID(healthIconIDs[1][0]);
 		playerOGIcon = healthIconIDs[1][0];
-		trace(playerOGIcon + "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+		//trace(playerOGIcon[0] + "\n\n\n\n\n" + playerOGIcon[1] + "\n\n\n\n\n\n\n\n\n\n\n");
 
 		iconP2.y = iconP1.y = bg.y - 75;
 		iconP1.flip = true;

@@ -33,6 +33,36 @@
 				"G": 0,
 				"B": 0
 			}
+		},
+		{
+			"dir": "assets/songs/bopeebo",
+			"icon": "dad",
+			"title": "Bopeebo",
+			"color": {
+				"R": 255,
+				"G": 0,
+				"B": 0
+			}
+		},
+		{
+			"dir": "assets/songs/fresh",
+			"icon": "dad",
+			"title": "Fresh",
+			"color": {
+				"R": 0,
+				"G": 0,
+				"B": 0
+			}
+		},
+		{
+			"dir": "assets/songs/dadbattle",
+			"icon": "dad",
+			"title": "Dad Battle",
+			"color": {
+				"R": 255,
+				"G": 0,
+				"B": 0
+			}
 		}
 	]
 }

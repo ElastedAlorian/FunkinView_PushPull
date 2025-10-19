@@ -1,14 +1,14 @@
-Title: Fresh
+Title: Bopeebo
 Arist: Kawai Sprite
 Genre: Funk
-Speed: 1.6
-BPM: 120
+Speed: 1.3
+BPM: 222
 Time Signature: 4/4
 Stage: stage
-Instrumental: assets/songs/fresh/Inst.flac
-Voices: assets/songs/fresh/Voices-dad.flac, assets/songs/fresh/Voices-bf.flac
+Instrumental: assets/songs/bopeebo/Inst.flac
+Voices: assets/songs/bopeebo/Voices-dad.flac, assets/songs/bopeebo/Voices-bf.flac
 Mania: 2
-Difficulty: #4
+Difficulty: #22
 Game Over:
 Theme: vanilla
 BPM: 100
